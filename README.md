@@ -2,7 +2,7 @@
 
 ## Descrizione del Progetto
 
-"Phishing URL Detection" è un progetto di Cybersecurity e Machine Learning focalizzato sullo sviluppo di un sistema in grado di distinguere URL legittimi da siti di phishing. A differenza degli approcci basati su semplici "blacklist", questo progetto analizza le caratteristiche strutturali e lessicali dell'URL per identificare minacce anche mai viste prima (Zero-Day Attacks).
+"Phishing URL Detection" è un progetto di intelligenza artificiale focalizzato sullo sviluppo di un approccio migliore rispetto a quello di uno studio scelto già pubblicato, per risolvere un task di ML. Esso si basa sull'utilizzo del Machine Learning ed è focalizzato sullo sviluppo di un sistema in grado di distinguere URL legittimi da siti di phishing. A differenza degli approcci basati su semplici "blacklist", questo progetto analizza le caratteristiche strutturali e lessicali dell'URL per identificare minacce anche mai viste prima.
 Il progetto pone un'enfasi particolare sulla pulizia dei dati (rilevamento di *Data Leakage*) e sull'explainability, confrontando le logiche decisionali di un singolo Albero Decisionale rispetto a una Random Forest.
 
 ## Struttura del Progetto
@@ -47,7 +47,7 @@ Per utilizzare questo progetto, segui i passaggi seguenti:
 ## Riferimenti
 
 Il dataset utilizzato per questo progetto è reperibile al seguente link ufficiale UCI:
-PhiUSIIL Phishing URL Dataset (UCI Machine Learning Repository)
+[PhiUSIIL Phishing URL Dataset (UCI Machine Learning Repository)](https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset)
 
 ## Autore
 Zeno Andrea, studente dell'Università di Salerno - Corso di Machine Learning
