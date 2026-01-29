@@ -1,0 +1,7 @@
+venv/
+.idea/
+__pycache__/
+*.ipynb_checkpoints
+# Ignoriamo i dati pesanti
+data/raw/
+data/processed/
